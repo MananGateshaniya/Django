@@ -14,5 +14,6 @@ A clean and maintainable Django web application built with Python and Django—d
 - Docker support (optional) for easy setup
 
 ## 🔗 Watch Project Demo  
-👉 [Click here to watch the demo on LinkedIn »]([https://www.linkedin.com/posts/manan-hiteshbhai-7b9702289_this-is-my-first-java-project-which-was-activity-7315382054299324417-uFtU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEYMtf0](https://www.linkedin.com/posts/manan-hiteshbhai-7b9702289_for-better-understand-visit-my-profile-project-activity-7315378128418205696-ob04?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEYMtf0Beh296T2TvF4rFeHWUkFtyyXleGg))
+👉 [Click here to watch the demo on LinkedIn »](https://www.linkedin.com/posts/manan-hiteshbhai-7b9702289_for-better-understand-visit-my-profile-project-activity-7315378128418205696-ob04?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEYMtf0Beh296T2TvF4rFeHWUkFtyyXleGg)
+
 
